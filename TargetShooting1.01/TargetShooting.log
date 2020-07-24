@@ -1,0 +1,59 @@
+﻿  Actor.cpp
+  AudioComponent.cpp
+  AudioSystem.cpp
+  BallActor.cpp
+  BallMove.cpp
+c:\users\tnakahara\source\repos\targetshooting\ballmove.cpp(5): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  BoxComponent.cpp
+  CameraComponent.cpp
+  CircleComponent.cpp
+  Collision.cpp
+  Component.cpp
+  DialogBox.cpp
+  FollowActor.cpp
+  FollowCamera.cpp
+  Font.cpp
+  FPSActor.cpp
+  FPSCamera.cpp
+  Game.cpp
+  GameClear.cpp
+  HUD.cpp
+  Main.cpp
+  コードを生成中...
+  コンパイル中...
+  Math.cpp
+  Mesh.cpp
+c:\users\tnakahara\source\repos\targetshooting\mesh.cpp(115): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  MeshComponent.cpp
+  MoveComponent.cpp
+  OrbitActor.cpp
+  OrbitCamera.cpp
+  PauseMenu.cpp
+  PhysWorld.cpp
+c:\users\tnakahara\source\repos\targetshooting\physworld.cpp(1): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  PlaneActor.cpp
+  Renderer.cpp
+  Shader.cpp
+  SoundEvent.cpp
+  SplineActor.cpp
+  SplineCamera.cpp
+c:\users\tnakahara\source\repos\targetshooting\splinecamera.cpp(72): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  SpriteComponent.cpp
+  TargetActor.cpp
+  TargetComponent.cpp
+  Texture.cpp
+  Title.cpp
+  UIScreen.cpp
+  コードを生成中...
+  コンパイル中...
+  VertexArray.cpp
+  WallActor.cpp
+  コードを生成中...
+  コード生成しています。
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' が 'soil.lib(SOIL.obj)' で、または 'C:\Users\tnakahara\source\repos\TargetShooting\Release\SOIL.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' が 'soil.lib(image_helper.obj)' で、または 'C:\Users\tnakahara\source\repos\TargetShooting\Release\SOIL.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' が 'soil.lib(stb_image_aug.obj)' で、または 'C:\Users\tnakahara\source\repos\TargetShooting\Release\SOIL.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' が 'soil.lib(image_DXT.obj)' で、または 'C:\Users\tnakahara\source\repos\TargetShooting\Release\SOIL.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  TargetShooting.vcxproj -> C:\Users\tnakahara\source\repos\TargetShooting\Release\TargetShooting.exe
